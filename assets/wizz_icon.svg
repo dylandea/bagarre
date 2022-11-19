@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:none;stroke:#008CFF;stroke-width:20.5893;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st3{opacity:0.5;fill:none;stroke:#008CFF;stroke-width:20.5893;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#232323;}
+	.st6{fill:none;stroke:#FF3F63;stroke-width:14.6907;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="249.6087" y1="373.2386" x2="249.6087" y2="352.8349">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1267" style="stop-color:#FBFBFB"/>
+		<stop  offset="0.2524" style="stop-color:#EFEFEF"/>
+		<stop  offset="0.3777" style="stop-color:#DBDBDB"/>
+		<stop  offset="0.503" style="stop-color:#BFBFBF"/>
+		<stop  offset="0.6282" style="stop-color:#9B9B9B"/>
+		<stop  offset="0.7534" style="stop-color:#6F6F6F"/>
+		<stop  offset="0.8767" style="stop-color:#3B3B3B"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<ellipse class="st0" cx="249.6" cy="363" rx="79.6" ry="10.2"/>
+	<radialGradient id="SVGID_2_" cx="282.6667" cy="162.4485" r="67.3011" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFD400;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#FFD400"/>
+	</radialGradient>
+	<circle class="st1" cx="250" cy="252.4" r="111"/>
+	<path class="st2" d="M140.8,359.2c-27.9-27.9-45.2-66.6-45.2-109.2s17.3-81.2,45.2-109.2"/>
+	<path class="st2" d="M359.2,140.8c27.9,27.9,45.2,66.6,45.2,109.2s-17.3,81.2-45.2,109.2"/>
+	<path class="st3" d="M111.7,388.3C76.3,352.9,54.4,304,54.4,250s21.9-102.9,57.3-138.3"/>
+	<path class="st3" d="M388.3,111.7c35.4,35.4,57.3,84.3,57.3,138.3s-21.9,102.9-57.3,138.3"/>
+	<circle class="st4" cx="199" cy="260.2" r="24.9"/>
+	<circle class="st5" cx="199" cy="253.7" r="13.5"/>
+	<circle class="st4" cx="300.2" cy="260.2" r="24.9"/>
+	<circle class="st5" cx="300.2" cy="266.7" r="13.5"/>
+	<path class="st6" d="M217.6,304.1c6.3,4.5,8.8,13.6,18.9,13.6c13.5,0,13.5-16.2,26.9-16.2c10,0,12.6,8.9,18.8,13.5"/>
+</g>
+</svg>

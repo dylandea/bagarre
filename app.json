@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "bagarre",
+    "slug": "bagarre",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-bagarre1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bigdaddydy.bagarre"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/square-logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.bigdaddydy.bagarre"
+    },
+    "web": {
+      "favicon": "./assets/square-logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dc131e44-ac0d-4cc0-a547-43da9a17df69"
+      }
+    }
+  }
+}
